@@ -6,7 +6,7 @@ This project demonstrates how to deploy a **Highly Available 3-Tier Web Applicat
 
 ---
 
-## 📌 Architecture Overview
+## Architecture Overview
 
 The application is deployed in **three tiers**:
 
@@ -23,7 +23,7 @@ Additional services:
 
 ---
 
-## 🛠 AWS Services Used
+##  AWS Services Used
 
 * **VPC** with Public & Private Subnets
 * **EC2** (Web + App servers)
@@ -37,7 +37,7 @@ Additional services:
 
 ---
 
-## 🚀 Deployment Steps
+##  Deployment Steps
 
 1. **VPC Setup**
 
@@ -93,7 +93,7 @@ Additional services:
 
 ---
 
-## ⚡ How to Access
+##  How to Access
 
 Once deployed, open the **External Load Balancer DNS** (or custom domain via Route53 + ACM) in browser:
 
@@ -103,7 +103,7 @@ https://<your-domain-or-elb-dns>
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 * `application-code/` → App + Web code
 * `install.sh` → Installation script
@@ -112,7 +112,7 @@ https://<your-domain-or-elb-dns>
 
 ---
 
-## 🌐 Future Enhancements
+##  Future Enhancements
 
 * Add **CloudFront CDN** for caching.
 * Enable **Monitoring & Alerts** with CloudWatch.
