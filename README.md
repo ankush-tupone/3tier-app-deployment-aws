@@ -5,6 +5,7 @@
 This project demonstrates how to deploy a **Highly Available 3-Tier Web Application** on AWS using services like **VPC, EC2, RDS, Load Balancers, Auto Scaling Groups, and S3**.
 
 ---
+
 ![Home-Page](Images/Home Page.png)
 
 ## Architecture Overview
