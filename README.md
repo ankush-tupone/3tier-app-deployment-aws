@@ -24,6 +24,7 @@ Additional services:
 * **Auto Scaling Groups (ASG)** for scalability.
 
 ---
+![Architecture](Images/Architecture.jpg)
 
 ##  AWS Services Used
 
