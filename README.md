@@ -6,7 +6,7 @@ This project demonstrates how to deploy a **Highly Available 3-Tier Web Applicat
 
 ---
 
-![Home-Page](Images/Home Page.png)
+![Home-Page](Images/Home-Page.png)
 
 ## Architecture Overview
 
